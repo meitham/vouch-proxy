@@ -1,5 +1,4 @@
 vouch
-vouch-proxy
 main
 config/config.yml
 config/*config.yml
